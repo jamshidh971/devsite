@@ -1,0 +1,103 @@
+body{
+    text-align: center;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right:0px;
+}
+h1{
+    position: absolute;
+    font-size: 50px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    bottom: 80%;
+    top: 20%;
+    left: 40%;
+}
+.p{
+    position: absolute;
+    bottom: 70%;
+    top:30%;
+    left:43%;   
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.home{
+    position: absolute;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    bottom: 85%;
+    left: 80%;
+}
+.login{
+    padding: 10px;
+    color:white;
+  background-color:#0C0E04 ;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.body1{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.clickhere{
+    padding: 10px;
+    color:white;
+  background-color:#0C0E04 ;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.studio{
+    padding: 50px;
+    position: relative;
+    left: 10%;
+}
+.body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: relative;
+    bottom: 300px;
+    left:100px;
+}
+hr.line{
+    border: 1px solid red;
+    width: 100px;
+    position: relative;
+bottom:430px;
+right: 50px;
+  
+}
+.client{
+    position: absolute;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-size: 50px;
+   left: 50%;
+   bottom: 400px;
+   color: #38761d;
+}
+.client1{
+    position: absolute;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-size: 50px;
+   left: 70%;
+   bottom: 400px;
+   color: #38761d;
+}
+.footer{
+    background-color: #eeeeee;
+    width: 100%;
+    height:300px;
+    padding: 20px;
+}
+.service{
+    font-size: 30px;
+}
+#service1{
+    
+}
+.about{
+    font-size: 30px;
+}
+.portfolio{
+    font-size: 30px;
+}
+.contactfont{
+    font-size: 30px;
+}
